@@ -1,0 +1,12 @@
+{
+  "name": "b2b-energy-storage-site-builder",
+  "version": "1.0.0",
+  "description": "新能源工商业储能(BESS)、户用储能与便携储能出海独立站构建与优化Skill，服务于sossenergy.com等储能出海品牌，内置欧盟新电池法案(EU Battery Passport 2023/1542)静态化编译器与sitemap-dpp.xml。",
+  "author": "cnproduct",
+  "license": "MIT",
+  "entry": "scripts/build_bess_site.py",
+  "tools": [
+    "build_bess_site.py"
+  ],
+  "standards_checked_at": "2026-11-08"
+}
